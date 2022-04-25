@@ -1,0 +1,17 @@
+.button {
+  display: inline-block;
+  text-decoration: none;
+  background: #0E8784;
+  border-radius: 6px;
+  border: transparent;
+  padding: 16px 31px;
+  font-family: 'Fraunces 9pt';
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 25px;
+  color: #FEFCF7;
+}
+
+.button:hover {
+  background: #66D2CF;
+}
